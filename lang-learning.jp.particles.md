@@ -3,7 +3,23 @@ Particles are characters appended to a word to show what it does in the sentence
 
 > For a more detailed explanation with sentence examples check out [this video](https://youtu.be/i9yqJggtYzo?si=8KxOYLhXtrspF1yC).
 
-## The が (subject) particle
+## Index:
+
+- [が - Subject](#が---subject)
+- [を - Object](#を-pronounced-o---object)
+- [は - Exclusive Topic](#は-pronounced-wa---exclusive-topic)
+- [も - Inclusive Topic](#も---inclusive-topic)
+- [の - Possession](#の---possession)
+- [に - Target or Location](#に---target-or-location)
+- [で - Boundary](#で---boundary)
+- [へ - Journey or Direction](#へ-pronounced-e---journey-or-direction)
+- [から - Starting Point](#から---starting-point)
+- [まで - End Point](#まで---end-point)
+- [と - Linking and Quotation](#と---linking-and-quotation)
+- [や - etc.](#や---etc)
+- [か - Question](#か---question)
+
+## が - Subject
 
 Marks the person or thing that is doing or being something.
 
@@ -12,66 +28,66 @@ Technically this particle does exist in every sentence, but a lot of the time it
 > It can also somehow work as "but", but I don't know how right now.
 
 
-## The を (object) particle (pronounced "o")
+## を (pronounced "o") - Object
 
 Marks the thing that an action is done to.
 
 
-## The は (exclusive topic) particle (pronounced "wa")
+## は (pronounced "wa") - Exclusive Topic
 
 Marks the exclusive thing that's being talked about.
 
 > This particle is sometimes dropped to lessen it's exclusivity.
 
 
-## The も (inclusive topic) particle
+## も - Inclusive Topic
 
 Marks the inclusive thing that's being talked about.
 
 
-## The の (possession) particle
+## の - Possession
 
 Marks a possession of the subject (as in the subject possesses something).
 
 > の can also nominalize but I don't really know that much about that right now.
 
 
-## The に (target) particle
+## に - Target or Location
 
 Marks where something is or is going to.
 
 > For example, it can be used to mark where something is (as in exact location), when something happens (as in exact time) and some sort of transformation.
 
 
-## The で (boundary) particle
+## で - Boundary
 
 Marks the boundary of an action.
 
 > で can feel similar to に, but the difference is that で specifies that the action is done within the specified boundary, not referring to the boundary itself like what に would do.
 
 
-## The へ (journey or direction) particle (pronounced "e")
+## へ (pronounced "e") - Journey or Direction
 
 Marks the journey itself of something to some destination. As in "aへ(journey of a)".
 
 > So if に marks the target (or destination) of a journey, へ refers to the journey itself to some destination.
 
 
-## The から (starting point) particle
+## から - Starting Point
 
 Marks the starting point of something. As in "a から(from) b".
 
 > It's also often used to mark the cause of effect. Since that's also essentially a starting point.
 
 
-## The まで (end point) particle
+## まで - End Point
 
 It marks the end point of something. As in "a まで(until) b"
 
 > This might feel similar to に, but まで explicitly marks the end point where as に does not.
 
 
-## The と (linking and quotation) particle
+## と - Linking and Quotation
 
 ### 1. Linking
 
@@ -88,14 +104,14 @@ Can be used to indicate quoting something else. This works by first saying what 
 > There's also the meaning of assuming or doing as something. As in "xyzとする (assume/do as 'xyz')"
 
 
-## The や (etc.) particle
+## や - etc.
 
 It's used to mean "etc.". As in "aやb (a, b, etc.)".
 
 > Sometimes など(also means "etc.") might be at the end of the list. This the equivalent of saying "etc." twice in English.
 
 
-## The か (question) particle
+## か - Question
 
 Used to indicate question similarly to a question mark. As in "a ですか (a is?)".
 
